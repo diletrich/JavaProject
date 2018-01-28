@@ -1,2 +1,7 @@
 .metadata
 object.java
+HEAD
+config
+description
+hooks/
+info/
